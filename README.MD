@@ -17,3 +17,11 @@
   - If not, output the initial results as the final ones;
 
 ## Citation
+If you use this code for your research, please cite our papers.
+```
+@article{yao2024scamf,
+  title={Single-Cell Analysis via Manifold Fitting: A Framework for RNA Clustering and Beyond},
+  author={Yao, Zhigang and Li, Bingjie and Lu, Yukun and Yau, Shing-Tung},
+  journal={Proceedings of the National Academy of Sciences of the United States of America‌},
+  year={2024}
+}
