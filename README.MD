@@ -1,4 +1,4 @@
-# Single-Cell Analysis via Manifold Fitting: A New Framework for RNA Clustering and Beyond
+# Single-Cell Analysis via Manifold Fitting: A Framework for RNA Clustering and Beyond
 
 ## Pre-requisites
 - MATLAB R2022b
